@@ -1,4 +1,4 @@
-# 18F Open Source Policy
+# 18F Open Source Policy - Updated
 
 This repository contains the official [Open Source Policy](policy.md) of [18F](https://18f.gsa.gov/) (a digital delivery team within the [General Services Administration](http://gsa.gov)).
 
