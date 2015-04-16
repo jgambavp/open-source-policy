@@ -1,4 +1,4 @@
-## Practicing our open source policy
+## Practicing our open source policy - updated
 
 This document is meant to give specific team guidance on putting our [open source policy](policy.md) into practice.
 
